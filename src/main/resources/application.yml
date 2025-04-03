@@ -1,0 +1,10 @@
+spring:
+  profiles.active: local
+  application:
+    name: crud-service
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+server:
+  servlet.context-path: /api/v1/crud-service
