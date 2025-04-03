@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.common-crud</groupId>
-	<artifactId>crud-service</artifactId>
+	<artifactId>bootstrap-crud-service</artifactId>
 	<version>0.0.1</version>
 	<name>crud-service</name>
 	<description>Common CRUD project for Spring Boot</description>
